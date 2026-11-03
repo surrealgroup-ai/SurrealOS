@@ -1,7 +1,8 @@
-﻿# Identidade — Criador Solo
+# Identidade — Empresa Solo
 
-> Identidade visual que rodou em cliente real do MazyOS — criador solo,
-> marca pessoal, audience-first. Adapta a tua em `identidade/design-guide.md`.
+> Identidade visual que rodou em cliente real do SurrealOS — empresa tocada
+> pelo dono, sem equipe fixa. O dono aparece como rosto, mas quem assina é a
+> empresa. Adapta a tua em `identidade/design-guide.md`.
 
 ---
 
@@ -25,7 +26,10 @@
 
 ## Estilo geral
 
-Quente, humano e editorial. Tons terrosos com fundo off-white. Parece um livro bonito ou um diário de marca pessoal. O terracota (#C96442) aparece em CTAs, pills e destaques de texto.
+Quente, humano e editorial. Tons terrosos com fundo off-white. Parece um livro
+bonito ou um material institucional bem cuidado. O terracota (#C96442) aparece
+em CTAs, pills e destaques de texto. O dono pode aparecer em foto, mas logo,
+nome da empresa e contato comercial vêm sempre em destaque.
 
 ---
 
@@ -41,7 +45,7 @@ Quente, humano e editorial. Tons terrosos com fundo off-white. Parece um livro b
 ## O que NUNCA fazer
 
 - Fundo branco puro (#FFFFFF) — usar sempre o off-white (#FAF7F2)
-- Bordas retas (solid sem radius) — parece corpo e genérico
+- Assinar peça só com nome pessoal sem nome da empresa junto
 - Amarelo-limão como acento — destoa do tom quente
 
 ---

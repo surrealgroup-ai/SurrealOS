@@ -1,8 +1,8 @@
-# MazyOS
+# SurrealOS
 
 > O sistema operacional do seu negócio dentro do Claude Code.
 
-Você acaba de instalar o MazyOS. Em alguns minutos, sua empresa vai
+Você acaba de instalar o SurrealOS. Em alguns minutos, sua empresa vai
 ter uma memória própria, uma identidade visual aplicada em tudo que
 o sistema gerar, e 15 skills prontas pra fazer marketing, SEO, ads
 e operação rodarem com você dirigindo.
@@ -20,7 +20,7 @@ Dois caminhos. Escolhe o que combina contigo.
 Abre o Claude Code em qualquer pasta e cola:
 
 ```
-Clona o https://github.com/mazzeoia/MazyOS.git na pasta atual,
+Clona o https://github.com/surrealgroup-ai/SurrealOS.git na pasta atual,
 entra nela e roda o /instalar.
 ```
 
@@ -30,8 +30,8 @@ só responde.
 ### Pelo terminal (mais previsível)
 
 ```
-git clone https://github.com/mazzeoia/MazyOS.git
-cd MazyOS
+git clone https://github.com/surrealgroup-ai/SurrealOS.git
+cd SurrealOS
 code .
 ```
 
@@ -39,9 +39,9 @@ Na janela do VS Code que abrir: terminal integrado → `claude` → `/instalar`.
 
 ---
 
-Quando o `/instalar` terminar, renomeia a pasta `MazyOS/` pro nome do teu
+Quando o `/instalar` terminar, renomeia a pasta `SurrealOS/` pro nome do teu
 negócio (fecha o VS Code, renomeia no Explorer/Finder, abre de novo). A
-pasta não fica como "MazyOS" — ela é o teu negócio agora.
+pasta não fica como "SurrealOS" — ela é o teu negócio agora.
 
 O `/instalar` roda uma vez só. Te entrevista sobre o negócio, monta a
 memória e configura o sistema. Depois disso, é só usar.
@@ -85,14 +85,14 @@ que ela roda.
 A diferença não é velocidade. É capacidade nova — uma pessoa com IA
 constrói o que antes exigia time inteiro. Cada processo crítico que hoje
 roda em open loop (decide → executa → não mede → repete cego) vira
-closed loop dentro do MazyOS (decide → executa → captura → realimenta →
+closed loop dentro do SurrealOS (decide → executa → captura → realimenta →
 ajusta sozinho).
 
 O sistema não substitui você. Vira parte da sua empresa.
 
 ---
 
-## Como o MazyOS pensa
+## Como o SurrealOS pensa
 
 `_memoria/` é o cérebro. Tudo que importa do seu negócio mora aqui —
 quem é a empresa, como ela fala, o que tá em foco essa semana. O Claude
@@ -108,4 +108,4 @@ versiona no GitHub, fica tudo seu.
 
 ## Quando precisar
 
-[mazzeoia.com.br](https://mazzeoia.com.br)
+[surreal.com.br](https://surreal.com.br)

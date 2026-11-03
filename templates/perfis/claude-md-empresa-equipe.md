@@ -1,7 +1,7 @@
-# [Nome da Empresa] — MazyOS
+# [Nome da Empresa] — SurrealOS
 
-> Molde do CLAUDE.md aplicado a **empresa estruturada** — setores,
-> processos, várias frentes rodando juntas. O sistema gira em torno
+> Molde do CLAUDE.md aplicado a **empresa com equipe** — 2+ pessoas,
+> setores, processos, várias frentes rodando juntas. O sistema gira em torno
 > de organização interna e fluxo entre áreas. O `/instalar` adapta
 > esse molde com a sua realidade.
 
